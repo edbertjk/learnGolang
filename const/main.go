@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func constVar() {
 	const (
 		a        = 10
 		b string = "hello"
